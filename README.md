@@ -37,8 +37,8 @@ This is a Flask-based weather web application that provides real-time weather in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hretzx/pythonProject.git
-cd pythonProject
+git clone https://github.com/fjordui/weatherapp.git
+cd weatherapp
 ```
 
 2. Install dependencies:
